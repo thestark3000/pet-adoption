@@ -8,6 +8,10 @@ body {
     font-family: "Source Sans 3", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .actual-top-content {
     z-index: 2;
     position: relative;
